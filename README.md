@@ -1,6 +1,5 @@
-# Correção do Código Assembly
+# Correção do Código da calculadora Assembly
 
-Este repositório contém a versão corrigida do código em linguagem Assembly.
 
 ## Alterações realizadas
 
